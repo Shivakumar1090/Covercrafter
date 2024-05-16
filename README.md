@@ -15,7 +15,6 @@ Crafting cover images for your blogs has become a breeze.
 - 🌈 4 different themes, multiple fonts
 - 🌠 100+ dev icons with option to upload custom icon
 - ✨ 15+ different background patterns
-- 💾 Cover size based on blogging platform (i.e hashnode and dev)
 
 ## 👩‍💻 Developing
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
